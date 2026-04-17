@@ -1,14 +1,10 @@
 main:
 
   - title: An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles
-    authors: Yufei Chang, Yangyang Cheng, Zhilan Wang, Shuo Wei, Jin Yan
+    authors: Yufei Chang, Yangyang Cheng, Zhilan Wang, <strong>Shuo Wei</strong>, Jin Yan
     conference_short: arXiv
-    conference: 
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/pdf/2603.18915
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
