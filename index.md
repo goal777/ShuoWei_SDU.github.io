@@ -4,8 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am graduate student at Shandong University, School of Mathematics, majoring in Operational research and Cybernetics.
-
+I am currently a graduate student at the School of Mathematics, Shandong University, majoring in Operational Research and Cybernetics under the supervision of Professor Yan Jin. Prior to this, I received my undergraduate degree from North China University of Water Resources and Electric Power in 2024. My research interests lie primarily in extremal graph theory. 
 ## Research Interests
 
 - **Extremal Graph Theory:** subgraph existence, hamiltonian
