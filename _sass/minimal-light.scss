@@ -214,19 +214,16 @@ papertitle {
         display: none;
       }
 
-      .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-      }
+   .image.avatar img {
+  border-radius: 100%;
+  width: 72%;
+  padding: 10px;
+}
 
-    #header .image.avatar {
-      margin: 0 0 1em 0;
-      width: 8.00em;
-    }
+header .image.avatar {
+  margin: 0 0 1em 0;
+  width: 10em;
+}
 
 h3, h4, h5, h6 {
   font-weight: 600;
@@ -498,11 +495,11 @@ footer {
   }
 
 
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
+.image.avatar img {
+  border-radius: 100%;
+  width: 145px;
+  padding: 12px;
+}
   #head1o2 {
     visibility: hidden;
   }
@@ -554,11 +551,11 @@ footer {
     width:33%;
   }
 
-  .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
-      padding:20px;
-  }
+ .image.avatar img {
+  border-radius: 100%;
+  width: 120px;
+  padding: 10px;
+}
   #head1o2 {
     visibility: hidden;
   }
