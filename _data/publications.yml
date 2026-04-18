@@ -1,9 +1,9 @@
 main:
   - title: An Ore-type Theorem for Oriented Discrepancy of Hamilton Cycles
-    authors: Yufei Chang, Yangyang Cheng, Zhilan Wang, <strong>Shuo Wei</strong>, Jin Yan
+    authors: Yufei Chang, Yangyang Cheng, Zhilan Wang, <strong>Shuo Wei</strong>, [Jin yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm)
     conference_short: arXiv
     conference:  arXiv:2603.18915v2.
     pdf: https://arxiv.org/pdf/2603.18915
   - title: Hamiltonian Squares in Digraphs under Semi-Degree Conditions
-    authors: Zhilan Wang, <strong>Shuo Wei</strong>, Jin Yan
+    authors: Zhilan Wang, <strong>Shuo Wei</strong>, [Jin yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm)
     pdf: ./assets/files/Hamiltonian Squares in Digraphs under Semi-Degree Conditions.pdf
