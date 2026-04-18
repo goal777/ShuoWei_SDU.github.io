@@ -19,4 +19,3 @@ I am currently a graduate student at the School of Mathematics, Shandong Univers
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
