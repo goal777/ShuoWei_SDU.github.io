@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year graduate student at the School of Mathematics, Shandong University, majoring in Operations Research and Cybernetics under the supervision of Professor [Jin Yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm). I will begin my Ph.D. studies at Shandong University in September 2026, also under the supervision of Professor [Jin Yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm).
+I am a first-year Ph.D. student at the School of Mathematics, Shandong University, under the supervision of Professor [Jin Yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm).
 
 Before that, I received my Bachelor's degree from North China University of Water Resources and Electric Power in 2024. My research focuses on extremal graph theory and digraph theory.
 
@@ -15,7 +15,6 @@ Before that, I received my Bachelor's degree from North China University of Wate
 
 ## News
 
-- **[Sep. 2026]** I will begin my Ph.D. studies at Shandong University under the supervision of Professor [Jin Yan](https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm).
 - **[Aug. 2025]** I turned 23!
 - **[Aug. 2024]** I turned 22!
 - **[Aug. 2023]** I turned 21!
