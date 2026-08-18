@@ -39,6 +39,12 @@ main:
     conference: "arXiv:2608.14432"
     pdf: "https://arxiv.org/pdf/2608.14432"
 
+  - title: "Spanning H-subdivisions with Prescribed Path Lengths"
+    authors: '<a href="https://zhilanwang.github.io/">Zhilan Wang</a>, <strong>Shuo Wei</strong>, <a href="https://faculty.sdu.edu.cn/yanjin/zh_CN/index.htm">Jin Yan</a>'
+    conference_short: arXiv
+    conference: "arXiv:2608.15786"
+    pdf: "https://arxiv.org/pdf/2608.15786"
+
     
 
 
