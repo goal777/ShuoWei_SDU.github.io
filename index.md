@@ -10,11 +10,11 @@ Before that, I received my Bachelor's degree from North China University of Wate
 
 ## Research Interests
 
-- **Extremal Graph Theory:** subgraph existence, Hamiltonicity
-- **Digraph Theory:** oriented graphs, structural and algorithmic problems
+- **Extremal Graph Theory:** Subgraph existence; Hamiltonicity
+- **Digraph Theory:** Oriented graphs; structural and algorithmic problems
 
 ## News
-
+- **[Aug. 2026]** I turned 24!
 - **[Aug. 2025]** I turned 23!
 - **[Aug. 2024]** I turned 22!
 - **[Aug. 2023]** I turned 21!
